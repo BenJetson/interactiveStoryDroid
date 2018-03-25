@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InteractiveStory.iml" filepath="$PROJECT_DIR$/InteractiveStory.iml" />
+      <module fileurl="file://$USER_HOME$/Drive/Documents/GitHub/interactiveStoryDroid/app/app.iml" filepath="$USER_HOME$/Drive/Documents/GitHub/interactiveStoryDroid/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Drive/Documents/GitHub/interactiveStoryDroid/interactiveStoryDroid.iml" filepath="$USER_HOME$/Drive/Documents/GitHub/interactiveStoryDroid/interactiveStoryDroid.iml" />
     </modules>
   </component>
 </project>
